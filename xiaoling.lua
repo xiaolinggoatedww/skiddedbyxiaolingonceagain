@@ -1,4 +1,4 @@
-        HunterHub = Instance.new("ScreenGui")
+        LeakedByXiaoLing = Instance.new("ScreenGui")
 	HHFrame = Instance.new("Frame")
 	TopBar = Instance.new("Frame")
 	TextLabel = Instance.new("TextLabel")
